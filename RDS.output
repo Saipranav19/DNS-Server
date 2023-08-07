@@ -1,0 +1,29 @@
+Query received : sshd1.abank.com
+Response sent : 50.363.69
+
+Query received : vpn.dbank.com
+Response sent : 50.363.69
+
+Query received : ftp.cbank.com
+Response sent : 50.363.69
+
+Query received : www.green.edu
+Response sent : 1123.25.36
+
+Query received : vpn.yellow.edu
+Response sent : 1123.25.36
+
+Query received : www.blue.edu
+Response sent : 1123.25.36
+
+Query received : www.google.com
+Response sent : 50.363.69
+
+Query received : www.facebook.in
+Response sent : Not Found
+
+Query received : hdhd.dhd.hhh
+Response sent : Not Found
+
+Query received : bye
+Response sent : bye

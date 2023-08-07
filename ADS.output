@@ -1,0 +1,21 @@
+Query received : vpn.dbank.com
+Response sent : 202.15.6.5
+
+Query received : www.green.edu
+Response sent : 192.13.5.1
+
+Query received : sshd1.abank.com
+Response sent : 202.15.5.4
+
+Query received : vpn.yellow.edu
+Response sent : 192.13.6.5
+
+Query received : www.blue.edu
+Response sent : 192.13.7.1
+
+Query received : bye
+Response sent :  
+
+Query received : ftp.cbank.com
+Response sent : 202.15.7.3
+

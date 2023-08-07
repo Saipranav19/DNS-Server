@@ -1,0 +1,24 @@
+Query received : www.green.edu
+Response sent : 1.2.3.7
+
+Query received : vpn.yellow.edu
+Response sent : 1.2.3.8
+
+Query received : www.blue.edu
+Response sent : 1.2.3.9
+
+Query received : sshd1.abank.com
+Response sent : 1.2.3.4
+
+Query received : vpn.dbank.com
+Response sent : 1.2.3.5
+
+Query received : ftp.cbank.com
+Response sent : 1.2.3.6
+
+Query received : www.google.com
+Response sent : Not Found
+
+Query received : bye
+Response sent : bye
+

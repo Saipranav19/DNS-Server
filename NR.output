@@ -1,0 +1,95 @@
+Query received : sshd1.abank.com
+Response sent : sshd1.abank.com
+
+Query received : 50.363.69
+Response sent : sshd1.abank.com
+
+Query received : 1.2.3.4
+Response sent : sshd1.abank.com
+
+Query received : 202.15.5.4
+Response sent : 202.15.5.4
+
+Query received : vpn.dbank.com
+Response sent : vpn.dbank.com
+
+Query received : 50.363.69
+Response sent : vpn.dbank.com
+
+Query received : 1.2.3.5
+Response sent : vpn.dbank.com
+
+Query received : 202.15.6.5
+Response sent : 202.15.6.5
+
+Query received : ftp.cbank.com
+Response sent : ftp.cbank.com
+
+Query received : 50.363.69
+Response sent : ftp.cbank.com
+
+Query received : 1.2.3.6
+Response sent : ftp.cbank.com
+
+Query received : 202.15.7.3
+Response sent : 202.15.7.3
+
+Query received : www.green.edu
+Response sent : www.green.edu
+
+Query received : 1123.25.36
+Response sent : www.green.edu
+
+Query received : 1.2.3.7
+Response sent : www.green.edu
+
+Query received : 192.13.5.1
+Response sent : 192.13.5.1
+
+Query received : vpn.yellow.edu
+Response sent : vpn.yellow.edu
+
+Query received : 1123.25.36
+Response sent : vpn.yellow.edu
+
+Query received : 1.2.3.8
+Response sent : vpn.yellow.edu
+
+Query received : 192.13.6.5
+Response sent : 192.13.6.5
+
+Query received : www.blue.edu
+Response sent : www.blue.edu
+
+Query received : 1123.25.36
+Response sent : www.blue.edu
+
+Query received : 1.2.3.9
+Response sent : www.blue.edu
+
+Query received : 192.13.7.1
+Response sent : 192.13.7.1
+
+Query received : www.google.com
+Response sent : www.google.com
+
+Query received : 50.363.69
+Response sent : www.google.com
+
+Query received : Not Found
+Response sent : Not Found
+
+Query received : www.facebook.in
+Response sent : www.facebook.in
+
+Query received : Not Found
+Response sent : Not Found
+
+Query received : hdhd.dhd.hhh
+Response sent : hdhd.dhd.hhh
+
+Query received : Not Found
+Response sent : Not Found
+
+Query received : bye
+Response sent : bye

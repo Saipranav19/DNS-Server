@@ -1,0 +1,48 @@
+BEGIN_DATA
+NR 12.0.0.2
+RDS 25.20.36
+TDS_com 50.363.69
+TDS_edu 1123.25.36
+ADS1 1.2.3.4
+ADS2 1.2.3.5
+ADS3 1.2.3.6
+ADS4 1.2.3.7
+ADS5 1.2.3.8
+ADS6 1.2.3.9
+List_of_ADS1
+www.abank.com 202.15.5.1
+smtp.abank.com 202.15.5.2
+ftp.abank.com 202.15.5.3
+sshd1.abank.com 202.15.5.4
+vpn.abank.com 202.15.5.5
+List_of_ADS2
+www.dbank.com 202.15.6.1
+smtp.dbank.com 202.15.6.2
+ftp.dbank.com 202.15.6.3
+sshd1.dbank.com 202.15.6.4
+vpn.dbank.com 202.15.6.5
+List_of_ADS3
+www.cbank.com 202.15.7.1
+smtp.cbank.com 202.15.7.2
+ftp.cbank.com 202.15.7.3
+sshd1.cbank.com 202.15.7.4
+vpn.cbank.com 202.15.7.5
+List_of_ADS4
+www.green.edu 192.13.5.1
+smtp.green.edu 192.13.5.2
+ftp.green.edu 192.13.5.3
+sshd1.green.edu 192.13.5.4
+vpn.green.edu 192.13.5.5
+List_of_ADS5
+www.yellow.edu 192.13.6.1
+smtp.yellow.edu 192.13.6.2
+ftp.yellow.edu 192.13.6.3
+sshd1.yellow.edu 192.13.6.4
+vpn.yellow.edu 192.13.6.5
+List_of_ADS6
+www.blue.edu 192.13.7.1
+smtp.blue.edu 192.13.7.2
+ftp.blue.edu 192.13.7.3
+sshd1.blue.edu 192.13.7.4
+vpn.blue.edu 192.13.7.5
+END_DATA
