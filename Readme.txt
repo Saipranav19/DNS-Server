@@ -16,3 +16,5 @@ If the given input domain name is present in the given input file it gives the r
 If the user enters bye then every server gets closed and every child program gets terminated.
 
 The querys and the responses of each server through out the given inputs are stored in their respective output files.
+
+A sample input and the respective output files are attached.
